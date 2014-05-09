@@ -1,0 +1,63 @@
+
+
+body{
+	background: #268838;
+	color: #eeeeee;
+	font-weight: 300;
+}
+
+h2{
+font-weight: 300;	
+}
+a {
+	color: #ffffff;
+}
+
+a:hover{
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+input{
+	color: #ffffff;
+	background-color: #268838;
+	border: 1px solid;
+}
+
+  
+textarea{
+	color: black;
+	background-color: #ffffff;
+	border: 1px solid;
+
+}
+
+button{
+	background-color: #fffff;
+	color: #000000;
+}
+
+td{
+	background-color: #268838;
+}
+
+div.modal-dialog{
+	color: #000000;
+	font-weight: 400;
+
+}
+
+div.modal-dialog input{
+	background-color:#ffffff;
+	color: black;
+}
+
+div.modal-dialog td{
+	background-color:  #ffffff;
+}
+div.modal-dialog  input{
+	color: #000000;
+	border: 0px solid;
+
+  }
+
